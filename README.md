@@ -1,2 +1,2 @@
-# icc-network-ui
-ICC Network UI
+# icc-network
+ICC Network
